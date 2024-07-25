@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I aspire to learn everyday and use my talents to work in real life. I aim to use my computer science degree to create and have fun!! 
-My main goal is to be well rounded in the world of computing especially in how to secure a network, create intersesting and **Eye popping** web designs.
+I aspire to learn everyday and use my talents to work in real life. I aim to use my computer science degree to create and have fun!!<br/>
+My main goal is to be well rounded in the world of computing especially in how to secure a network, create intersesting and **Eye popping** web designs.<br/>
 
 **Aspiring Jobs**
  - CyberSecurity Specialist
