@@ -26,6 +26,7 @@ My main goal is to be well rounded in the world of computing especially in how t
 **Currently a College Student at the ⛏️ University of Texas at El Paso (UTEP) ⛏️**
  - GPA: [3.82]
  - MAJOR GPA: [3.87]
+ - Minor in Math
 ---
 
 
