@@ -92,7 +92,8 @@ My main goal is to be well rounded in the world of computing especially in how t
       - Course Work
       - CS 4177, Software Vulnerabilities.
       - Created installation tutorial, video walkthrough, mutliple powerpoints & a class excercise that students can perform.
-      - [👾] Powershell-Empire was an open-source post-exploitation agent to "assess resilience of systems against cyber threats."
+      - [👾] Powershell-Empire was an open-source post-exploitation agent to 
+        "assess resilience of systems against cyber threats."
       - Our team utilized the Kali-Linux with Powershell-Empire & A virtual Machine running Windows 7 for the excercise.
 > #### [Ticketminer-Project](https://github.com/FernRemes/UTEP-AOOP-Ticketminer-Project)
       - Course Work
