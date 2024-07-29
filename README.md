@@ -68,57 +68,57 @@ My main goal is to be well rounded in the world of computing especially in how t
 
 ### API Involved Projects
 
-> #### [YouTube Clone](https://github.com/FernRemes/YouTube_Clone)
+> #### -> [YouTube Clone](https://github.com/FernRemes/YouTube_Clone)
       - Personal
       - Main Purpose: To ignore YouTube's Algorithm and only view videos you personally want to search for.
       - A [🔴] YouTube clone is a web application designed to mimic the functionality and features of YouTube, 
         the popular video-sharing platform. 
       - Building a YouTube clone involves creating a platform where users can search, view thumbnails, interact with videos, 
         and view YouTube Channels.
-> #### [Weather App](https://github.com/FernRemes/Weather) 
+> #### -> [Weather App](https://github.com/FernRemes/Weather) 
       - Personal
       - Create a personal webpage for the weather. [⛅]
 
 ### Powershell / Terminal Focus Projects
 
-> #### [Sudoku Solver](https://github.com/FernRemes/Sudoku-Solver)
+> #### -> [Sudoku Solver](https://github.com/FernRemes/Sudoku-Solver)
       - Personal 
       - The user has the ability to personally input a sudoku and the program shall
         either solve the sudoku or output "No Solution". [🔢]
-> #### [QR Code Generator](https://github.com/FernRemes/QR_Code)
+> #### -> [QR Code Generator](https://github.com/FernRemes/QR_Code)
       - Personal
       - The user can input a [⛓️‍💥] URL and customize the color scheme of their custom QR Code.
-> #### [Fallen-Empire](https://github.com/FernRemes/Fallen-Empire)
+> #### -> [Fallen-Empire](https://github.com/FernRemes/Fallen-Empire)
       - Course Work
       - CS 4177, Software Vulnerabilities.
       - Created installation tutorial, video walkthrough, mutliple powerpoints & a class excercise that students can perform.
       - [👾] Powershell-Empire was an open-source post-exploitation agent to 
         "assess resilience of systems against cyber threats."
       - Our team utilized the Kali-Linux with Powershell-Empire & A virtual Machine running Windows 7 for the excercise.
-> #### [Ticketminer-Project](https://github.com/FernRemes/UTEP-AOOP-Ticketminer-Project)
+> #### -> [Ticketminer-Project](https://github.com/FernRemes/UTEP-AOOP-Ticketminer-Project)
       - Course Work
       - CS 3331, Adv. Object Orientation.
       - **Disclaimer** Ticketminer uses a pre-set of data with FAKE user accounts, names, events, venues, and prices.
       - [✍️] Utilize course lessons of file handling, dynamic structuring using UML Diagrams, design patterns, and polymorphism to emulate Ticketmaster.
       - Just like Ticketmaster, [🎟️] Ticketminer has an admin and a user/customer. An admin can add, update, and remove events or venues, 
         while customers are limited to only buying or canceling one or more tickets. The customer can vue their order in their own invoice directory.
-> #### [Shortest-Path Dijkastra Map](https://github.com/FernRemes/Dijkastra)
+> #### -> [Shortest-Path Dijkastra Map](https://github.com/FernRemes/Dijkastra)
       - Course Work
       - CS 2401, Elem. Data Struct./Algorithms
       - Utilize the Dijkastara Method to find the shortest path between El Paso Community College locations and 
         University of Texas at El Paso.
       
 ### Web Designing
-> #### [Rock Paper Scissors](https://github.com/FernRemes/Rock_Paper_Scissors)
+> #### -> [Rock Paper Scissors](https://github.com/FernRemes/Rock_Paper_Scissors)
       - Personal
       - A single-page web application for "[🪨]Rock, [📜] Paper, [✂️] Scissors" where a player competes against a CPU.
       - Involves building a simple interactive interface and backend logic to handle game mechanics and outcomes. 
-> #### [Hangman Game](https://github.com/FernRemes/Hangman)
+> #### -> [Hangman Game](https://github.com/FernRemes/Hangman)
       - Personal
       - A [🧍‍♂️] Hangman game web application which allows players to try to guess a hidden word by suggesting letters. 
       - Each incorrect guess results in a part of a hangman figure being drawn. 
       - The game ends when the player either guesses the word [😄] correctly or runs out of chances. [💀] 
-> #### [Pomu Clock](https://github.com/FernRemes/Pomu_Clock)
+> #### -> [Pomu Clock](https://github.com/FernRemes/Pomu_Clock)
       - Personal
       - The [🕓] clock has both standard and military time for all users. 
       - This clock may not be enjoyable for all, but it is to me and gives tribute to a creator. [🧚]
