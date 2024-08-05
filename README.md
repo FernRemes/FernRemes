@@ -143,7 +143,8 @@ My main goal is to be well rounded in the world of computing especially in how t
 ### 📶 Wireless Networks [CS 4318] 🌟
 
       ~ Circuit and Packet Switching, wireless communication principles, network design and architecture, 
-        various wireless standards (such as Wi-Fi, Bluetooth, and LTE), and techniques for optimizing wireless network performance.
+        various wireless standards (such as Wi-Fi, Bluetooth, and LTE), and techniques for optimizing 
+        wireless network performance.
       ~ Captured and received radio waves from air traffic control with 4 other members using a 
         Quarter Wave Ground Plane Antenna, GNU Radio Software, and a RTL-SDR.
       Grade: [B]
@@ -151,7 +152,8 @@ My main goal is to be well rounded in the world of computing especially in how t
 ### 👨‍💻🖥️ Advanced Object-Oriented Programming [CS 3331]
 
       ~ Developed a comprehensive framework and functionalities, encompassing .csv file management, 
-        dynamic structures to enhance modularity, and the application of design patterns, to emulate the operations of Ticketmaster.
+        dynamic structures to enhance modularity, and the application of design patterns, 
+        to emulate the operations of Ticketmaster.
       ~ after working individuallly, then my peers combined, innovated, and refacotred each others code.
       ~ Learned their approach into programming and implementation of JUnit testing and Javadoc made communication better.
       Grade: [A]
@@ -164,7 +166,8 @@ My main goal is to be well rounded in the world of computing especially in how t
       Grade: [A]
 ### 🧮 Automata/Computability/Formal-Languages [CS 3350] 🌟
 
-      ~ Theoretical computing models used to study the behavior of systems with a finite number of states, transitions, and inputs.
+      ~ Theoretical computing models used to study the behavior of systems with a finite number of states, transitions, 
+        and inputs.
       ~ Some models used were but limited to pushdown automata, context-free grammars, Turing machines and computability.
       Grade: [A].
 
