@@ -125,6 +125,46 @@ My main goal is to be well rounded in the world of computing especially in how t
 
 ## Course Stats
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Parturient porttitor a velit dolor risus; aliquet at interdum. Morbi lacus metus habitant; neque donec sociosqu. Ornare mus penatibus blandit efficitur justo. Quis risus erat sollicitudin diam vivamus. Faucibus faucibus congue ridiculus placerat nisl neque sed aliquet posuere. Maecenas primis nullam sociosqu habitasse; porttitor efficitur enim. Facilisi hac tempus neque dui ac tristique elementum. Curae donec urna aenean lectus nam nostra. Efficitur cursus eros fringilla quisque nam feugiat ad.
+### 👨‍💻 Software Engineering Requirements 1 [CS 4310]
 
-Platea urna erat mi orci mus ex, parturient donec bibendum. Neque sem rhoncus habitasse; turpis lobortis placerat eu non. Ullamcorper sapien vivamus quam aliquet curabitur finibus vel inceptos. Arcu aliquam id augue etiam natoque tempus. Facilisis nunc est sodales accumsan arcu torquent finibus nec aliquam. Viverra volutpat efficitur orci vehicula sapien arcu. Cursus per a sollicitudin accumsan volutpat lectus.
+      ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
+      ~ First semester of a two-semester CAPSTONE project working alongside peers and a client.
+      ~ Captured and specified requirements for a real-world application, to be coded in Fall 2024.
+      Roles: Team Leader / Behavior Manager
+      Grade: [A] 
+
+### 🌐 Computer Networks [CS 4316] 🌟
+
+      ~ Network architecure, protocols, IP and MAC addressing, routing, and switches to enable communication between 
+        devices
+      ~ Required and performed many server to client or client to client projects using TCP and UDP.
+      Grade: [A]
+
+### 📶 Wireless Networks [CS 4318] 🌟
+
+      ~ Circuit and Packet Switching, wireless communication principles, network design and architecture, 
+        various wireless standards (such as Wi-Fi, Bluetooth, and LTE), and techniques for optimizing wireless network performance.
+      ~ Captured and received radio waves from air traffic control with 4 other members using a 
+        Quarter Wave Ground Plane Antenna, GNU Radio Software, and a RTL-SDR.
+      Grade: [B]
+
+### 👨‍💻🖥️ Advanced Object-Oriented Programming [CS 3331]
+
+      ~ Developed a comprehensive framework and functionalities, encompassing .csv file management, 
+        dynamic structures to enhance modularity, and the application of design patterns, to emulate the operations of Ticketmaster.
+      ~ after working individuallly, then my peers combined, innovated, and refacotred each others code.
+      ~ Learned their approach into programming and implementation of JUnit testing and Javadoc made communication better.
+      Grade: [A]
+### 💾 Computer Organization [CS 3432]
+
+      ~ Insight into the internal structure, design, and operational principles of computer systems, assebly proccessing, 
+        and optimizing system performance and data management.
+      ~ Learned the input/output of assembly and machine language, including memory-mapped I/O.
+      ~ Created a Pong Game designed as a Tennis Game MSP-430 project that included interrupts and exception handling.
+      Grade: [A]
+### 🧮 Automata/Computability/Formal-Languages [CS 3350] 🌟
+
+      ~ Theoretical computing models used to study the behavior of systems with a finite number of states, transitions, and inputs.
+      ~ Some models used were but limited to pushdown automata, context-free grammars, Turing machines and computability.
+      Grade: [A].
+
