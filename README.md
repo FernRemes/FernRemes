@@ -32,10 +32,13 @@ My main goal is to be well rounded in the world of computing especially in how t
  - Associate of Arts in Computer Science @ El Paso Community College 
 ---
 
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=fernremes&show_icons=true&theme=transparent&border_radius=25&title_color=088370&icon_color=6EC4B7&text_color=828282" alt="FernRemes' GitHub stats" style="height: 100%; width: 90%;" />
 
-<img align = left width = 50% src = "https://github-readme-stats.vercel.app/api?username=fernremes&show_icons=true&theme=transparent&border_radius=25&title_color=088370&icon_color=6EC4B7&text_color=828282" alt = "FernRemes' GitHub stats"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernremes&layout=donut&border_radius=25&theme=transparent&title_color=088370&text_color=6EC4B7&hide=jupyter%20notebook" alt="Top Langs" style="height: 30%; width: 100%;" />
+</div>
 
-<img width = 40% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fernremes&layout=donut&border_radius=25&theme=transparent&title_color=088370&text_color=6EC4B7&hide=jupyter%20notebook" alt = "Top Langs"/>
+
 
 ---
 ## Personal / Course Work Projects
