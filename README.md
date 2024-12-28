@@ -24,12 +24,13 @@ My main goal is to be well rounded in the world of computing especially in how t
  - Web Development
 
 **Currently a College Student at the ⛏️ University of Texas at El Paso (UTEP) ⛏️**
- - GPA: [3.82]
- - MAJOR GPA: [3.87]
+ - GPA: Magna Cum Laude
  - Math Minor
+ - Concentration: Computer Security
 
 **Degree**
- - Associate of Arts in Computer Science @ El Paso Community College 
+ - Associate of Arts in Computer Science @ El Paso Community College
+ - Bachelors of Computer Science @ University of Texas at El Paso
 ---
 
 <div align="left">
