@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I aspire to learn everyday and use my talents to work in real life. I aim to use my computer science degree to create and have fun!!<br/>
-My main goal is to be well rounded in the world of computing especially in how to secure a network, create intersesting and **Eye popping** web designs.<br/>
+I aspire to learn every day and use my talents to work in real life. I aim to use my computer science degree to create and have fun!!<br/>
+My main goal is to be well-rounded in the world of computing, especially in securing a network and creating interesting and **Eye-popping** web designs.<br/>
 
 **Aspiring Jobs**
  - CyberSecurity Specialist
  - I.T. Specialist
  - Web Development
 
-**Currently a College Student at the ⛏️ University of Texas at El Paso (UTEP) ⛏️**
+**Graduate Student at the ⛏️ University of Texas at El Paso (UTEP) ⛏️**
  - GPA: Magna Cum Laude
  - Math Minor
  - Concentration: Computer Security
@@ -49,10 +49,10 @@ My main goal is to be well rounded in the world of computing especially in how t
 > #### <img width = 2.5% src = "https://github.com/user-attachments/assets/887e47cd-bf1a-4fe0-a5d6-cf1a8bf033c6"/> [Sonar Model](https://github.com/FernRemes/Sonar-Prediction)
       - Personal
       - Simulation model to imitate how a sonar identifies an item. 
-      - In this project I use a dataset with two items: [🪨] Rock and [💣] Mines.
+      - In this project, I use a dataset with two items: [🪨] Rock and [💣] Mines.
 > #### <img width = 2.5% src = "https://github.com/user-attachments/assets/887e47cd-bf1a-4fe0-a5d6-cf1a8bf033c6"/> [Movie Recommendator](https://github.com/FernRemes/Movie_Recommendation)
       - Personal
-      - Using a dataset to analyze the user's input and use match pattern to categorize 
+      - Using a dataset to analyze the user's input and use a match pattern to categorize 
         possible options that are similar to those of the user's input. 
       - A user inputs their favourite [⭐] movie and the program will give 
         suggestions of other [🎥] movies to recommend to watch. 
@@ -95,18 +95,18 @@ My main goal is to be well rounded in the world of computing especially in how t
 > #### <img width = 2.5% src = "https://github.com/user-attachments/assets/887e47cd-bf1a-4fe0-a5d6-cf1a8bf033c6"/> [Fallen-Empire](https://github.com/FernRemes/Fallen-Empire)
       - Course Work
       - CS 4177, Software Vulnerabilities.
-      - Created installation tutorial, video walkthrough, mutliple powerpoints & a class excercise that students can perform.
+      - Created installation tutorial, video walkthrough, multiple PowerPoints & a class exercise that students can perform.
       - [👾] Powershell-Empire was an open-source post-exploitation agent to 
-        "assess resilience of systems against cyber threats."
-      - Our team utilized the Kali-Linux with Powershell-Empire & A virtual Machine running Windows 7 for the excercise.
+        "assess the resilience of systems against cyber threats."
+      - Our team utilized the Kali-Linux with Powershell-Empire & A Virtual Machine running Windows 7 for the exercise.
 > #### <img width = 2.5% src = "https://github.com/user-attachments/assets/887e47cd-bf1a-4fe0-a5d6-cf1a8bf033c6"/> [Ticketminer-Project](https://github.com/FernRemes/UTEP-AOOP-Ticketminer-Project)
       - Course Work
       - CS 3331, Adv. Object Orientation.
       - **Disclaimer** Ticketminer uses a pre-set of data with FAKE user accounts, names, events, venues, and prices.
-      - [✍️] Utilize course lessons of file handling, dynamic structuring using UML Diagrams, design patterns, and polymorphism to emulate Ticketmaster.
+      - [✍️] Utilize course lessons in file handling, and dynamic structuring using UML Diagrams, design patterns, and polymorphism to emulate Ticketmaster.
       - Just like Ticketmaster, [🎟️] Ticketminer has an admin and a user/customer. An admin can add, update, and remove events or venues, 
-        while customers are limited to only buying or canceling one or more tickets. The customer can vue their order in their own invoice directory.
-> #### <img width = 2.5% src = "https://github.com/user-attachments/assets/887e47cd-bf1a-4fe0-a5d6-cf1a8bf033c6"/> [Shortest-Path Dijkastra Map](https://github.com/FernRemes/Dijkastra)
+        while customers are limited to only buying or canceling one or more tickets. The customer can view their order in their invoice directory.
+> #### <img width = 2.5% src = "https://github.com/user-attachments/assets/887e47cd-bf1a-4fe0-a5d6-cf1a8bf033c6"/> [Shortest-Path Dijkstra Map](https://github.com/FernRemes/Dijkastra)
       - Course Work
       - CS 2401, Elem. Data Struct./Algorithms
       - Utilize the Dijkastara Method to find the shortest path between El Paso Community College locations and 
@@ -119,7 +119,7 @@ My main goal is to be well rounded in the world of computing especially in how t
       - Involves building a simple interactive interface and backend logic to handle game mechanics and outcomes. 
 > #### <img width = 2.5% src = "https://github.com/user-attachments/assets/887e47cd-bf1a-4fe0-a5d6-cf1a8bf033c6"/> [Hangman Game](https://github.com/FernRemes/Hangman)
       - Personal
-      - A [🧍‍♂️] Hangman game web application which allows players to try to guess a hidden word by suggesting letters. 
+      - A [🧍‍♂️] Hangman game web application that allows players to try to guess a hidden word by suggesting letters. 
       - Each incorrect guess results in a part of a hangman figure being drawn. 
       - The game ends when the player either guesses the word [😄] correctly or runs out of chances. [💀] 
 > #### <img width = 2.5% src = "https://github.com/user-attachments/assets/887e47cd-bf1a-4fe0-a5d6-cf1a8bf033c6"/> [Pomu Clock](https://github.com/FernRemes/Pomu_Clock)
@@ -139,9 +139,9 @@ My main goal is to be well rounded in the world of computing especially in how t
 
 ### 🌐 Computer Networks [CS 4316] 🌟
 
-      ~ Network architecure, protocols, IP and MAC addressing, routing, and switches to enable communication between 
+      ~ Network architecture, protocols, IP and MAC addressing, routing, and switches to enable communication between 
         devices
-      ~ Required and performed many server to client or client to client projects using TCP and UDP.
+      ~ Required and performed many server-to-client or client-to-client projects using TCP and UDP.
       Grade: [A]
 
 ### 📶 Wireless Networks [CS 4318] 🌟
@@ -150,7 +150,7 @@ My main goal is to be well rounded in the world of computing especially in how t
         various wireless standards (such as Wi-Fi, Bluetooth, and LTE), and techniques for optimizing 
         wireless network performance.
       ~ Captured and received radio waves from air traffic control with 4 other members using a 
-        Quarter Wave Ground Plane Antenna, GNU Radio Software, and a RTL-SDR.
+        Quarter Wave Ground Plane Antenna, GNU Radio Software, and an RTL-SDR.
       Grade: [B]
 
 ### 👨‍💻🖥️ Advanced Object-Oriented Programming [CS 3331]
@@ -158,12 +158,12 @@ My main goal is to be well rounded in the world of computing especially in how t
       ~ Developed a comprehensive framework and functionalities, encompassing .csv file management, 
         dynamic structures to enhance modularity, and the application of design patterns, 
         to emulate the operations of Ticketmaster.
-      ~ after working individuallly, then my peers combined, innovated, and refacotred each others code.
+      ~ after working individually, then my peers combined, innovated and refactored each other's code.
       ~ Learned their approach into programming and implementation of JUnit testing and Javadoc made communication better.
       Grade: [A]
 ### 💾 Computer Organization [CS 3432]
 
-      ~ Insight into the internal structure, design, and operational principles of computer systems, assebly proccessing, 
+      ~ Insight into the internal structure, design, and operational principles of computer systems, assembly processing, 
         and optimizing system performance and data management.
       ~ Learned the input/output of assembly and machine language, including memory-mapped I/O.
       ~ Created a Pong Game designed as a Tennis Game MSP-430 project that included interrupts and exception handling.
@@ -172,6 +172,6 @@ My main goal is to be well rounded in the world of computing especially in how t
 
       ~ Theoretical computing models used to study the behavior of systems with a finite number of states, transitions, 
         and inputs.
-      ~ Some models used were but limited to pushdown automata, context-free grammars, Turing machines and computability.
+      ~ Some models used were but limited to pushdown automata, context-free grammars, Turing machines, and computability.
       Grade: [A].
 
