@@ -23,7 +23,7 @@ My main goal is to be well-rounded in the world of computing, especially in secu
  - I.T. Specialist
  - Web Development
 
-**Graduate Student at the ⛏️ University of Texas at El Paso (UTEP) ⛏️**
+**Graduate Student from the ⛏️ University of Texas at El Paso (UTEP) ⛏️**
  - GPA: Magna Cum Laude
  - Math Minor
  - Concentration: Computer Security
