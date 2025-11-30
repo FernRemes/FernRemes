@@ -30,7 +30,7 @@ My main goal is to be well-rounded in the world of computing, especially in secu
 
 **Degree**
  - Associate of Arts in Computer Science @ El Paso Community College
- - Bachelors of Computer Science @ University of Texas at El Paso
+ - Bachelor's of Science in Computer Science @ University of Texas at El Paso
 ---
 
 <div align="left">
